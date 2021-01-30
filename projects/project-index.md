@@ -6,8 +6,8 @@
 
 ## Spotify <a name="spotify"></a>
 
-## Spotify <a name="hbo"></a>
+## HBO <a name="hbo"></a>
 
-## Spotify <a name="netflix"></a>
+## Netflix <a name="netflix"></a>
 
-## Spotify <a name="lol"></a>
+## League of Legends <a name="lol"></a>
