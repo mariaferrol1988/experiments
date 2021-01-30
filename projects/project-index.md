@@ -1,12 +1,13 @@
 # Table of contents
-1. [Spotify](#Spotify )
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+1. [Spotify](#spotify )
+2. [HBO](#hbo)
+3. [Netflix](#netflix)
+4. [League of Legends](#lol)
 
-## This is the introduction <a name="Spotify"></a>
-Some introduction text, formatted in heading 2 style
+## Spotify <a name="spotify"></a>
 
+## Spotify <a name="hbo"></a>
 
+## Spotify <a name="netflix"></a>
 
-# Spotify Sequential Skip Prediction Challenge
+## Spotify <a name="lol"></a>
