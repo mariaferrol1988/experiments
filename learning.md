@@ -13,6 +13,7 @@ tar -tf filename.tar.gz
 ```console
 tar -xf archive.tar
 tar -xvf archive.tar # showing the name of the file extracted 
+tar -xf archive.tar file1 file2 # extracting files
 ```
 
 
