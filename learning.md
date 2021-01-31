@@ -5,12 +5,12 @@
 ## Working with .tar files 
 
 ### Checking content
-```console
+```bash
 tar -tf filename.tar.gz
 ```
 
 ### Extracting the content 
-```console
+```bash
 tar -xf archive.tar
 tar -xvf archive.tar # showing the name of the file extracted 
 tar -xf archive.tar file1 file2 # extracting files
