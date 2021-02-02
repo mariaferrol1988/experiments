@@ -24,7 +24,7 @@ chmod 644 /path/to/directory # the owner of the file has read and write access, 
 ### Discard git changes local
 ```bash
 git stash # undo all the changes
-git checkout
+git checkout # undo last commit
 ```
 
 ## Sources
