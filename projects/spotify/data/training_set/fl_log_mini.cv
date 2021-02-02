@@ -1,0 +1,10 @@
+session_id,session_position,session_length,track_id_clean,skip_1,skip_2,skip_3,not_skipped,context_switch,no_pause_before_play,short_pause_before_play,long_pause_before_play,hist_user_behavior_n_seekfwd,hist_user_behavior_n_seekback,hist_user_behavior_is_shuffle,hour_of_day,date,premium,context_type,hist_user_behavior_reason_start,hist_user_behavior_reason_end
+0_00006f66-33e5-4de7-a324-2d18e439fc1e,1,20,t_0479f24c-27d2-46d6-a00c-7ec928f2b539,false,false,false,true,0,0,0,0,0,0,true,16,2018-07-15,true,editorial_playlist,trackdone,trackdone
+0_00006f66-33e5-4de7-a324-2d18e439fc1e,2,20,t_9099cd7b-c238-47b7-9381-f23f2c1d1043,false,false,false,true,0,1,0,0,0,0,true,16,2018-07-15,true,editorial_playlist,trackdone,trackdone
+0_00006f66-33e5-4de7-a324-2d18e439fc1e,3,20,t_fc5df5ba-5396-49a7-8b29-35d0d28249e0,false,false,false,true,0,1,0,0,0,0,true,16,2018-07-15,true,editorial_playlist,trackdone,trackdone
+0_00006f66-33e5-4de7-a324-2d18e439fc1e,4,20,t_23cff8d6-d874-4b20-83dc-94e450e8aa20,false,false,false,true,0,1,0,0,0,0,true,16,2018-07-15,true,editorial_playlist,trackdone,trackdone
+0_00006f66-33e5-4de7-a324-2d18e439fc1e,5,20,t_64f3743c-f624-46bb-a579-0f3f9a07a123,false,false,false,true,0,1,0,0,0,0,true,16,2018-07-15,true,editorial_playlist,trackdone,trackdone
+0_00006f66-33e5-4de7-a324-2d18e439fc1e,6,20,t_c815228b-3212-4f9e-9d4f-9cb19b248184,false,false,true,false,0,1,0,0,0,0,true,16,2018-07-15,true,editorial_playlist,trackdone,fwdbtn
+0_00006f66-33e5-4de7-a324-2d18e439fc1e,7,20,t_e23c19f5-4c32-4557-aa44-81372c2e3705,true,true,true,false,0,1,0,0,0,0,true,16,2018-07-15,true,editorial_playlist,fwdbtn,fwdbtn
+0_00006f66-33e5-4de7-a324-2d18e439fc1e,8,20,t_0be6eced-f56f-48bd-8086-f2e0b760fdee,true,true,true,false,0,1,0,0,0,0,true,16,2018-07-15,true,editorial_playlist,fwdbtn,fwdbtn
+0_00006f66-33e5-4de7-a324-2d18e439fc1e,9,20,t_f3ecbd3b-9e8e-4557-b8e0-39cfcd7e65dd,false,true,true,false,0,1,0,0,0,0,true,16,2018-07-15,true,editorial_playlist,fwdbtn,fwdbtn
